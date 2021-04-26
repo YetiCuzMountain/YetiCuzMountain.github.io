@@ -1,5 +1,0 @@
-I"2<h3 id="本地发布">本地发布</h3>
-<p>1、选中clone下来的主题,git bash
-2、在bash中输入 bundle exec jekyll server 或者 jekyll server
-3、打开chrome输入localhost:4000，即可查看目录(期间如果修改yml以外的文件，修改后，重载，若修改yml重新jekyll server)</p>
-:ET
